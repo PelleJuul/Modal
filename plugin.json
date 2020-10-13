@@ -1,0 +1,23 @@
+{
+  "slug": "tonerig-myplugin",
+  "name": "My Plugin",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "Tonerig",
+  "author": "Pelle",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "tonerig-modal",
+      "name": "tonerig-modal",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
